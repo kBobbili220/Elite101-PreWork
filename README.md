@@ -1,7 +1,7 @@
 # Introduction
 
 
-This is a repository created by *Karthik*
+This is a repository created by *Karthik* shared with Nickolaus and Emilio
 
 
 ## Usage
